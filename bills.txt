@@ -1,0 +1,25 @@
+Customer Name: ali ali
+Date: 15/5/2024
+Medicines:
+Name: med0  | Dose: 1000  | Price: 3500
+Name: med1  | Dose: 500  | Price: 3300
+Total Amount: 6800
+
+Customer Name: ali1
+Date: 15/5/2024
+Medicines:
+Name: med0  | Dose: 1000  | Price: 3500
+Total Amount: 3500
+
+Customer Name: ahmed
+Date: 15/5/2024
+Medicines:
+Name: med1  | Dose: 500  | Price: 3300
+Total Amount: 3300
+
+Customer Name: mohammed
+Date: 15/5/2024
+Medicines:
+Name: med33  | Dose: 23  | Price: 500
+Total Amount: 500
+
